@@ -1,0 +1,2 @@
+(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[678],{7704:function(e,t,n){"use strict";n.r(t);var l=n(7294),a=function(e){var t=e.post,n=t.title,a=t.link,u=t.pubDate;return l.createElement("li",null,l.createElement("a",{href:a},l.createElement("small",null,u)," ",n))};t.default=function(e){return l.createElement("ul",null,e.data.allFeedQiita.nodes.map((function(e){return l.createElement(a,{post:e,key:e.link})})))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8030e0c58607e4c12def.js.map
